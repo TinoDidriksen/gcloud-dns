@@ -1,0 +1,16 @@
+commatizer.com. 43200 IN A 138.201.253.104
+commatizer.com. 43200 IN AAAA 2a01:4f8:173:2467::2
+commatizer.com. 43200 IN MX 1 aspmx.l.google.com.
+commatizer.com. 43200 IN MX 5 alt1.aspmx.l.google.com.
+commatizer.com. 43200 IN MX 5 alt2.aspmx.l.google.com.
+commatizer.com. 43200 IN MX 10 aspmx2.googlemail.com.
+commatizer.com. 43200 IN MX 10 aspmx3.googlemail.com.
+commatizer.com. 43200 IN TXT "v=spf1 include:_spf.google.com a mx ptr ip4:138.201.253.104 ip6:2a01:4f8:173:2467::2 ~all"
+commatizer.com. 43200 IN TXT "google-site-verification=CrAP2tqLhqfY6-_WefRsGo2EvDMzDHjD9kXOIp8XsIE"
+commatizer.com. 43200 IN TXT "google-site-verification=MCifYavgq4UWewO0u_Te5x48vcWBqlgNpO9vQQsq9OE"
+commatizer.com. 43200 IN TXT "google-site-verification=TzH_D5fsoAUlxhsweuA0tWhykdWWGnaPO_-hK-78fCM"
+commatizer.com. 43200 IN TXT "google-site-verification=UYVtyRkskD3vMCAhLHOfWMh5gBRudFfVa2YfVgnsK2g"
+*.commatizer.com. 43200 IN CNAME commatizer.com.
+_dmarc.commatizer.com. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@gramtrans.com"
+google-engcom._domainkey.commatizer.com. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsi2oLXja51BvJq7mvpsOkocTVAsqy8EDo1eyFFN6ERH9TgXZijU2oTiCznuVnAaa45MFBYi68fV7ggOfmVlcTc+mSVCVhqBTm4BdQopWd3WbPMGyqrsqcXl6kN6yIukufi6xfnmPlRllD1EWN+SRnLvzCdePgYIJNg00D9abwdADJiPhfw/HzK7RYMBhos7sz"
+google-engcom._domainkey.commatizer.com. 43200 IN TXT "XdZmoA9gFQVSWGXxHaVohVTtgAooZeyKadlNOy4Bni0ttBGk61XdixJwA0PeWjdj7VHWX0bgrLPAXvZbWcqof63e0FyAIhsWPk4HOl8CS5BO5ag8OA4+VczXuknMPDE7ipSL0gEQGAVJHfyhVGluQIDAQAB"

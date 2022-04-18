@@ -1,0 +1,15 @@
+spoons.cc. 43200 IN A 5.9.18.201
+spoons.cc. 43200 IN AAAA 2a01:4f8:160:92cf::2
+spoons.cc. 43200 IN MX 1 aspmx.l.google.com.
+spoons.cc. 43200 IN MX 5 alt1.aspmx.l.google.com.
+spoons.cc. 43200 IN MX 5 alt2.aspmx.l.google.com.
+spoons.cc. 43200 IN MX 10 aspmx2.googlemail.com.
+spoons.cc. 43200 IN MX 10 aspmx3.googlemail.com.
+spoons.cc. 43200 IN TXT "google-site-verification=1ahGxvUnxo4W5CyHd8vMjAELNBE9QF79xfxVwV6O3gA"
+spoons.cc. 43200 IN TXT "google-site-verification=2oXN9GpfpTIZYK0AQDcfwFtTE54mp03JBNlFuvgG5CI"
+spoons.cc. 43200 IN TXT "google-site-verification=B7Q6_nLnWkxNP4-1GXWJttnEi-gUMgB6d4VupkMzNfk"
+spoons.cc. 43200 IN TXT "google-site-verification=ecAjFb7DKAdEhCwG0AycYyDYAUB8beDVhgtG1ZP6-Xk"
+spoons.cc. 43200 IN TXT "google-site-verification=UqSbzNpdCniZ6wieb68hmvC22RPgnjRjuLLZSnoKYrM"
+spoons.cc. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
+*.spoons.cc. 43200 IN CNAME spoons.cc.
+_dmarc.spoons.cc. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"

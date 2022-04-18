@@ -1,0 +1,23 @@
+projectjj.com. 43200 IN A 5.9.18.201
+projectjj.com. 43200 IN AAAA 2a01:4f8:160:92cf::2
+projectjj.com. 43200 IN MX 1 aspmx.l.google.com.
+projectjj.com. 43200 IN MX 5 alt1.aspmx.l.google.com.
+projectjj.com. 43200 IN MX 5 alt2.aspmx.l.google.com.
+projectjj.com. 43200 IN MX 10 aspmx2.googlemail.com.
+projectjj.com. 43200 IN MX 10 aspmx3.googlemail.com.
+projectjj.com. 43200 IN TXT "v=spf1 include:_spf.google.com a mx ptr a:oqaa.projectjj.com a:timber.projectjj.com a:wolf.projectjj.com a:oqaa.projectjj.com ip4:37.187.75.182 ip4:192.99.34.59 ip6:2001:41d0:a:2bb6::/64 ip6:2607:5300:60:493b::1/64 ~all"
+*.projectjj.com. 43200 IN CNAME projectjj.com.
+mail.projectjj.com. 43200 IN A 5.9.18.201
+mail.projectjj.com. 43200 IN AAAA 2a01:4f8:160:92cf::2
+mail.projectjj.com. 43200 IN TXT "v=spf1 include:projectjj.com ~all"
+oqaa.projectjj.com. 43200 IN A 144.217.254.26
+oqaa.projectjj.com. 43200 IN AAAA 2607:5300:203:101a::
+oqaa.projectjj.com. 43200 IN TXT "v=spf1 include:projectjj.com ~all"
+wolf.projectjj.com. 43200 IN A 5.9.18.201
+wolf.projectjj.com. 43200 IN AAAA 2a01:4f8:160:92cf::2
+wolf.projectjj.com. 43200 IN TXT "v=spf1 include:projectjj.com ~all"
+_dmarc.projectjj.com. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"
+timber.projectjj.com. 43200 IN A 5.9.18.201
+timber.projectjj.com. 43200 IN AAAA 2a01:4f8:160:92cf::2
+timber.projectjj.com. 43200 IN TXT "v=spf1 include:projectjj.com ~all"
+apertium.projectjj.com. 43200 IN CNAME oqaa.projectjj.com.

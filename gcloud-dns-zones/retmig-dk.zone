@@ -1,0 +1,16 @@
+retmig.dk. 43200 IN A 138.201.253.104
+retmig.dk. 43200 IN AAAA 2a01:4f8:173:2467::2
+retmig.dk. 43200 IN MX 1 aspmx.l.google.com.
+retmig.dk. 43200 IN MX 5 alt1.aspmx.l.google.com.
+retmig.dk. 43200 IN MX 5 alt2.aspmx.l.google.com.
+retmig.dk. 43200 IN MX 10 aspmx2.googlemail.com.
+retmig.dk. 43200 IN MX 10 aspmx3.googlemail.com.
+retmig.dk. 43200 IN TXT "v=spf1 include:_spf.google.com a mx ptr ip4:138.201.253.104 ip6:2a01:4f8:173:2467::2 ~all"
+retmig.dk. 43200 IN TXT "google-site-verification=CrAP2tqLhqfY6-_WefRsGo2EvDMzDHjD9kXOIp8XsIE"
+retmig.dk. 43200 IN TXT "google-site-verification=MCifYavgq4UWewO0u_Te5x48vcWBqlgNpO9vQQsq9OE"
+retmig.dk. 43200 IN TXT "google-site-verification=TzH_D5fsoAUlxhsweuA0tWhykdWWGnaPO_-hK-78fCM"
+retmig.dk. 43200 IN TXT "google-site-verification=UYVtyRkskD3vMCAhLHOfWMh5gBRudFfVa2YfVgnsK2g"
+*.retmig.dk. 43200 IN CNAME retmig.dk.
+_dmarc.retmig.dk. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@gramtrans.com"
+google-retmig._domainkey.retmig.dk. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhrGYj8/5bb/k6zRaoZb8DTEMQM+rXlZrK/n5Y/xifWgXTka1V4fTANSaZRVIDZH2iCkc9pLcV0wTmH/WS68K3mLUYyxYvJit2M4XGtyFFZ1rRkJG/NOn5IKll67j7j8CYx4VuQIeAPYQNl/f5OJ4GSRI803OMlXsydBncoS4FqsJuX/JwBCMeLh3BPYzf2cpl"
+google-retmig._domainkey.retmig.dk. 43200 IN TXT "uBV/Wq6fAcGdOtwuGwlk9iQT/J7npmV5OfkaqFo8bwCiNwL7edqUI7raj8cY7kz5ISKLqLNz4YNeI/Z883TxzCuNOHaH6FCD3T7b6+xbpbiy6VHMm75fP65A/Lgswv6dLh2UoVHRYsvhGsudaxcVwIDAQAB"

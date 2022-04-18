@@ -1,0 +1,15 @@
+athia.eu. 43200 IN A 5.9.18.201
+athia.eu. 43200 IN AAAA 2a01:4f8:160:92cf::2
+athia.eu. 43200 IN MX 1 aspmx.l.google.com.
+athia.eu. 43200 IN MX 5 alt1.aspmx.l.google.com.
+athia.eu. 43200 IN MX 5 alt2.aspmx.l.google.com.
+athia.eu. 43200 IN MX 10 aspmx2.googlemail.com.
+athia.eu. 43200 IN MX 10 aspmx3.googlemail.com.
+athia.eu. 43200 IN TXT "google-site-verification=1ahGxvUnxo4W5CyHd8vMjAELNBE9QF79xfxVwV6O3gA"
+athia.eu. 43200 IN TXT "google-site-verification=2oXN9GpfpTIZYK0AQDcfwFtTE54mp03JBNlFuvgG5CI"
+athia.eu. 43200 IN TXT "google-site-verification=B7Q6_nLnWkxNP4-1GXWJttnEi-gUMgB6d4VupkMzNfk"
+athia.eu. 43200 IN TXT "google-site-verification=ecAjFb7DKAdEhCwG0AycYyDYAUB8beDVhgtG1ZP6-Xk"
+athia.eu. 43200 IN TXT "google-site-verification=UqSbzNpdCniZ6wieb68hmvC22RPgnjRjuLLZSnoKYrM"
+athia.eu. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
+*.athia.eu. 43200 IN CNAME athia.eu.
+_dmarc.athia.eu. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"

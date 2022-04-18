@@ -1,0 +1,17 @@
+skarby.cc. 43200 IN A 5.9.18.201
+skarby.cc. 43200 IN AAAA 2a01:4f8:160:92cf::2
+skarby.cc. 43200 IN MX 1 aspmx.l.google.com.
+skarby.cc. 43200 IN MX 5 alt1.aspmx.l.google.com.
+skarby.cc. 43200 IN MX 5 alt2.aspmx.l.google.com.
+skarby.cc. 43200 IN MX 10 aspmx2.googlemail.com.
+skarby.cc. 43200 IN MX 10 aspmx3.googlemail.com.
+skarby.cc. 43200 IN TXT "google-site-verification=1ahGxvUnxo4W5CyHd8vMjAELNBE9QF79xfxVwV6O3gA"
+skarby.cc. 43200 IN TXT "google-site-verification=2oXN9GpfpTIZYK0AQDcfwFtTE54mp03JBNlFuvgG5CI"
+skarby.cc. 43200 IN TXT "google-site-verification=B7Q6_nLnWkxNP4-1GXWJttnEi-gUMgB6d4VupkMzNfk"
+skarby.cc. 43200 IN TXT "google-site-verification=ecAjFb7DKAdEhCwG0AycYyDYAUB8beDVhgtG1ZP6-Xk"
+skarby.cc. 43200 IN TXT "google-site-verification=UqSbzNpdCniZ6wieb68hmvC22RPgnjRjuLLZSnoKYrM"
+skarby.cc. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
+*.skarby.cc. 43200 IN CNAME skarby.cc.
+_dmarc.skarby.cc. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"
+google-skarbycc._domainkey.skarby.cc. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArIOx/x8xnE6RyZK5pXsy4orl34AmIujET8aGJaFgd1kDG93XQdRA5OmdIHhSz4esZ5yCmXIQMdPhxmPdUH68Ebxk2H6allPU66sNBANY2BMznrZEr6V2o1vzO8dGDYzanBlqDtQCI3HDwL+gFsg44hJfheAWH79Qe4tCDClzS5qVHgwsqt6oTPfmY1GhusSgs"
+google-skarbycc._domainkey.skarby.cc. 43200 IN TXT "QYN2UbV06WNp/KMn2jMQwljdzeWwZXwAEH+AoHwN7r6wnRjoDMdFRPBR+woXWxuZnHSEEmNFjL+aZYw/2ItzwAf22fuy6RUmhyY7B4uya8sGpls+SztC08gBAlCXxMatjvwqum3Rw+owSzeKhijFQIDAQAB"

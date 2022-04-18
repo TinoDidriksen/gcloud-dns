@@ -1,0 +1,17 @@
+learngreenlandic.com. 43200 IN A 5.9.18.201
+learngreenlandic.com. 43200 IN AAAA 2a01:4f8:160:92cf::2
+learngreenlandic.com. 43200 IN MX 1 aspmx.l.google.com.
+learngreenlandic.com. 43200 IN MX 5 alt1.aspmx.l.google.com.
+learngreenlandic.com. 43200 IN MX 5 alt2.aspmx.l.google.com.
+learngreenlandic.com. 43200 IN MX 10 aspmx2.googlemail.com.
+learngreenlandic.com. 43200 IN MX 10 aspmx3.googlemail.com.
+learngreenlandic.com. 43200 IN TXT "google-site-verification=1ahGxvUnxo4W5CyHd8vMjAELNBE9QF79xfxVwV6O3gA"
+learngreenlandic.com. 43200 IN TXT "google-site-verification=2oXN9GpfpTIZYK0AQDcfwFtTE54mp03JBNlFuvgG5CI"
+learngreenlandic.com. 43200 IN TXT "google-site-verification=B7Q6_nLnWkxNP4-1GXWJttnEi-gUMgB6d4VupkMzNfk"
+learngreenlandic.com. 43200 IN TXT "google-site-verification=ecAjFb7DKAdEhCwG0AycYyDYAUB8beDVhgtG1ZP6-Xk"
+learngreenlandic.com. 43200 IN TXT "google-site-verification=UqSbzNpdCniZ6wieb68hmvC22RPgnjRjuLLZSnoKYrM"
+learngreenlandic.com. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
+*.learngreenlandic.com. 43200 IN CNAME learngreenlandic.com.
+_dmarc.learngreenlandic.com. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"
+google-lgcom._domainkey.learngreenlandic.com. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgfM6OPvluOqxlj1Mw1srwCKhVhtTKVi4zDaEWFetGupwujWqWAYeSBjXDtrqQdiZv9lqK0E7qny+DVUfBzsvFagLUI2fmm+GujC+JBrk1yIkPLIj4AGnk1f6QDP+CzHlcvEuuUJBbJb96r1tDv2O3Py3DI9ly6aUnNyGqtUiVNfY4+udBAzrn0KWANOzkCKbp"
+google-lgcom._domainkey.learngreenlandic.com. 43200 IN TXT "VRga1YsNe2HGMj8enzhSpZiR9ZvxNosynGXA0FRdzqFxLyzubDUP8hla3rewUgWiIOLDFvONqDqPw3YImbSmWr8QSW2FRKQQa90NJAdhywaPQKNhmiYBpM/spipnjbpEy9SEkNs5yYaNdZ9V/AOzQIDAQAB"

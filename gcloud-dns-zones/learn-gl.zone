@@ -1,0 +1,17 @@
+learn.gl. 43200 IN A 5.9.18.201
+learn.gl. 43200 IN AAAA 2a01:4f8:160:92cf::2
+learn.gl. 43200 IN MX 1 aspmx.l.google.com.
+learn.gl. 43200 IN MX 5 alt1.aspmx.l.google.com.
+learn.gl. 43200 IN MX 5 alt2.aspmx.l.google.com.
+learn.gl. 43200 IN MX 10 aspmx2.googlemail.com.
+learn.gl. 43200 IN MX 10 aspmx3.googlemail.com.
+learn.gl. 43200 IN TXT "google-site-verification=1ahGxvUnxo4W5CyHd8vMjAELNBE9QF79xfxVwV6O3gA"
+learn.gl. 43200 IN TXT "google-site-verification=2oXN9GpfpTIZYK0AQDcfwFtTE54mp03JBNlFuvgG5CI"
+learn.gl. 43200 IN TXT "google-site-verification=B7Q6_nLnWkxNP4-1GXWJttnEi-gUMgB6d4VupkMzNfk"
+learn.gl. 43200 IN TXT "google-site-verification=ecAjFb7DKAdEhCwG0AycYyDYAUB8beDVhgtG1ZP6-Xk"
+learn.gl. 43200 IN TXT "google-site-verification=UqSbzNpdCniZ6wieb68hmvC22RPgnjRjuLLZSnoKYrM"
+learn.gl. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
+*.learn.gl. 43200 IN CNAME learn.gl.
+_dmarc.learn.gl. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"
+google-lggl._domainkey.learn.gl. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjgTz1+9azGpICbEqt7xvJFXsOt7yhZZ6Hd4DmZAQbVOr/aTpBarmZB8cLNe1t1U4hfwR+NgT/t8pWFiYAlINdejRebpK0riTfSFNZB/XpjKH0A+hDGpmo78Q5aR4/p5wckdV7YB9J51oO4UQEKf/JtYLtS7Q0S+3pSNq8Xecw03I25uSFEGFYKDjFPeomSmZU"
+google-lggl._domainkey.learn.gl. 43200 IN TXT "7PT3gOcfSeRKcSIrXYddRlGuRb+f9J9JRf+JUO4JV2FAjnN8RT6LREjEEOl3emlpovexJdOpf12E5LbiYBDKu+IlEE2b6mhbc4YZt63zKii20rCywOidE7rzEPE/+279M3GNr+1HpULriNCWfmAkQIDAQAB"

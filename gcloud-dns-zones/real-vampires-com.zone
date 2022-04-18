@@ -1,0 +1,7 @@
+real-vampires.com. 43200 IN A 5.9.18.201
+real-vampires.com. 43200 IN AAAA 2a01:4f8:160:92cf::2
+real-vampires.com. 43200 IN MX 10 mail.projectjj.com.
+real-vampires.com. 43200 IN TXT "google-site-verification=dDCWHjXgRUCemnG36GYPWNtUIa0V_5FL2nC4J4jAB9g"
+real-vampires.com. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
+*.real-vampires.com. 43200 IN CNAME real-vampires.com.
+_dmarc.real-vampires.com. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"
