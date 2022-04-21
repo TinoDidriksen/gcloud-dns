@@ -12,5 +12,4 @@ retmig.dk. 43200 IN TXT "google-site-verification=TzH_D5fsoAUlxhsweuA0tWhykdWWGn
 retmig.dk. 43200 IN TXT "google-site-verification=UYVtyRkskD3vMCAhLHOfWMh5gBRudFfVa2YfVgnsK2g"
 *.retmig.dk. 43200 IN CNAME retmig.dk.
 _dmarc.retmig.dk. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@gramtrans.com"
-google-retmig._domainkey.retmig.dk. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhrGYj8/5bb/k6zRaoZb8DTEMQM+rXlZrK/n5Y/xifWgXTka1V4fTANSaZRVIDZH2iCkc9pLcV0wTmH/WS68K3mLUYyxYvJit2M4XGtyFFZ1rRkJG/NOn5IKll67j7j8CYx4VuQIeAPYQNl/f5OJ4GSRI803OMlXsydBncoS4FqsJuX/JwBCMeLh3BPYzf2cpl"
-google-retmig._domainkey.retmig.dk. 43200 IN TXT "uBV/Wq6fAcGdOtwuGwlk9iQT/J7npmV5OfkaqFo8bwCiNwL7edqUI7raj8cY7kz5ISKLqLNz4YNeI/Z883TxzCuNOHaH6FCD3T7b6+xbpbiy6VHMm75fP65A/Lgswv6dLh2UoVHRYsvhGsudaxcVwIDAQAB"
+google-retmig._domainkey.retmig.dk. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhrGYj8/5bb/k6zRaoZb8DTEMQM+rXlZrK/n5Y/xifWgXTka1V4fTANSaZRVIDZH2iCkc9pLcV0wTmH/WS68K3mLUYyxYvJit2M4XGtyFFZ1rRkJG/NOn5IKll67j7j8CYx4VuQIeAPYQNl/f5OJ4GSRI803OMlXsydBncoS4FqsJuX/JwBCMeLh3BPYzf2cpl" "uBV/Wq6fAcGdOtwuGwlk9iQT/J7npmV5OfkaqFo8bwCiNwL7edqUI7raj8cY7kz5ISKLqLNz4YNeI/Z883TxzCuNOHaH6FCD3T7b6+xbpbiy6VHMm75fP65A/Lgswv6dLh2UoVHRYsvhGsudaxcVwIDAQAB"

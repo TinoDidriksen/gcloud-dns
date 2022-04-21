@@ -12,5 +12,4 @@ grammarsoft.com. 43200 IN TXT "google-site-verification=TzH_D5fsoAUlxhsweuA0tWhy
 grammarsoft.com. 43200 IN TXT "google-site-verification=UYVtyRkskD3vMCAhLHOfWMh5gBRudFfVa2YfVgnsK2g"
 *.grammarsoft.com. 43200 IN CNAME grammarsoft.com.
 _dmarc.grammarsoft.com. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@gramtrans.com"
-google-gsoft._domainkey.grammarsoft.com. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArxE2jDUIItqyxl1s5Vo5y9El/x7uO84C1KTfjzBWhj716Lkx5TegBrXTG1ls4F1zAPPCQwDEswg4U+uS4OmypmbCEeBGvPHIfZtauRI2twNweN5fDAR6+5Biuyhs+SSrsIEUkympheQHe6iHpA8cgGXPmDmI5uFXWWB6CS+lO7d16okMyDZi5qqvP8o0bEnic"
-google-gsoft._domainkey.grammarsoft.com. 43200 IN TXT "PhcTq17BLbvz5Fl0FND/6auOlUMLY0zJQGb0UGoa3A6zga9ZBin0WEwIZhm3QZhMi9aQTfLovszrwCCf8xLtS1XJhCcexrwSZ3TV07WT8fIZ6z+8cjgQRxDyoy/U763ramUlmF2JfEDd2RU9aWfAQIDAQAB"
+google-gsoft._domainkey.grammarsoft.com. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArxE2jDUIItqyxl1s5Vo5y9El/x7uO84C1KTfjzBWhj716Lkx5TegBrXTG1ls4F1zAPPCQwDEswg4U+uS4OmypmbCEeBGvPHIfZtauRI2twNweN5fDAR6+5Biuyhs+SSrsIEUkympheQHe6iHpA8cgGXPmDmI5uFXWWB6CS+lO7d16okMyDZi5qqvP8o0bEnic" "PhcTq17BLbvz5Fl0FND/6auOlUMLY0zJQGb0UGoa3A6zga9ZBin0WEwIZhm3QZhMi9aQTfLovszrwCCf8xLtS1XJhCcexrwSZ3TV07WT8fIZ6z+8cjgQRxDyoy/U763ramUlmF2JfEDd2RU9aWfAQIDAQAB"

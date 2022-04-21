@@ -13,5 +13,4 @@ learngreenlandic.com. 43200 IN TXT "google-site-verification=UqSbzNpdCniZ6wieb68
 learngreenlandic.com. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
 *.learngreenlandic.com. 43200 IN CNAME learngreenlandic.com.
 _dmarc.learngreenlandic.com. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"
-google-lgcom._domainkey.learngreenlandic.com. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgfM6OPvluOqxlj1Mw1srwCKhVhtTKVi4zDaEWFetGupwujWqWAYeSBjXDtrqQdiZv9lqK0E7qny+DVUfBzsvFagLUI2fmm+GujC+JBrk1yIkPLIj4AGnk1f6QDP+CzHlcvEuuUJBbJb96r1tDv2O3Py3DI9ly6aUnNyGqtUiVNfY4+udBAzrn0KWANOzkCKbp"
-google-lgcom._domainkey.learngreenlandic.com. 43200 IN TXT "VRga1YsNe2HGMj8enzhSpZiR9ZvxNosynGXA0FRdzqFxLyzubDUP8hla3rewUgWiIOLDFvONqDqPw3YImbSmWr8QSW2FRKQQa90NJAdhywaPQKNhmiYBpM/spipnjbpEy9SEkNs5yYaNdZ9V/AOzQIDAQAB"
+google-lgcom._domainkey.learngreenlandic.com. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgfM6OPvluOqxlj1Mw1srwCKhVhtTKVi4zDaEWFetGupwujWqWAYeSBjXDtrqQdiZv9lqK0E7qny+DVUfBzsvFagLUI2fmm+GujC+JBrk1yIkPLIj4AGnk1f6QDP+CzHlcvEuuUJBbJb96r1tDv2O3Py3DI9ly6aUnNyGqtUiVNfY4+udBAzrn0KWANOzkCKbp" "VRga1YsNe2HGMj8enzhSpZiR9ZvxNosynGXA0FRdzqFxLyzubDUP8hla3rewUgWiIOLDFvONqDqPw3YImbSmWr8QSW2FRKQQa90NJAdhywaPQKNhmiYBpM/spipnjbpEy9SEkNs5yYaNdZ9V/AOzQIDAQAB"

@@ -13,5 +13,4 @@ scaledup.life. 43200 IN TXT "google-site-verification=UqSbzNpdCniZ6wieb68hmvC22R
 scaledup.life. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
 *.scaledup.life. 43200 IN CNAME scaledup.life.
 _dmarc.scaledup.life. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"
-google-scaleduplife._domainkey.scaledup.life. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn4NDuX+WgDjn7r81ZYWfSUcyIPR3Ypp3hvPxxsHelasmyHbGNffqQScy9lB0n7sXj9P/bM84pdn7y6UmTda5plbmwEWGmq+qQFvkwt0syRR7TV6iPYBC1L27DbfoV+DkCk4ECGg2asJB5tlS8uBSIkSGOilgaVx6yMZ9vZqO3NzPi8YtM6ovi9Fkh+SXY8/wI"
-google-scaleduplife._domainkey.scaledup.life. 43200 IN TXT "KLduTEblLm0GqEMN3jiKO+VFP+n9sifJG0T/4FkX8T41wfztiifGlRRm8Zjt2pUgR1zD0VqijZEFORwJMDyPvZOTe1ixzbQ1bxOomhkho/4J1mBEiMEjGtLH37YXKq3pOATMBRZ6m0UCi7/FZb39wIDAQAB"
+google-scaleduplife._domainkey.scaledup.life. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn4NDuX+WgDjn7r81ZYWfSUcyIPR3Ypp3hvPxxsHelasmyHbGNffqQScy9lB0n7sXj9P/bM84pdn7y6UmTda5plbmwEWGmq+qQFvkwt0syRR7TV6iPYBC1L27DbfoV+DkCk4ECGg2asJB5tlS8uBSIkSGOilgaVx6yMZ9vZqO3NzPi8YtM6ovi9Fkh+SXY8/wI" "KLduTEblLm0GqEMN3jiKO+VFP+n9sifJG0T/4FkX8T41wfztiifGlRRm8Zjt2pUgR1zD0VqijZEFORwJMDyPvZOTe1ixzbQ1bxOomhkho/4J1mBEiMEjGtLH37YXKq3pOATMBRZ6m0UCi7/FZb39wIDAQAB"

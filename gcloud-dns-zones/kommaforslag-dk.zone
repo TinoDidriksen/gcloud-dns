@@ -12,5 +12,4 @@ kommaforslag.dk. 43200 IN TXT "google-site-verification=TzH_D5fsoAUlxhsweuA0tWhy
 kommaforslag.dk. 43200 IN TXT "google-site-verification=UYVtyRkskD3vMCAhLHOfWMh5gBRudFfVa2YfVgnsK2g"
 *.kommaforslag.dk. 43200 IN CNAME kommaforslag.dk.
 _dmarc.kommaforslag.dk. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@gramtrans.com"
-google-dancom._domainkey.kommaforslag.dk. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg6jNF10CZlbKirNHVRTcQEuxWOarRjlI2Ikd9mfwFFu8+qxouHygKh1aDuKVBX365cG7mcOEfCDUmmC3y9EO1oN+GbqdI7KwqwHWyTOogfvglQjkZHWojH7t4CLH1iV0GDmP0kkiu4xJ/pjifhfFWPf/1sgMZbsnDHzxi6vBoYKftjBkUwyEVtDXjdnqUTQfe"
-google-dancom._domainkey.kommaforslag.dk. 43200 IN TXT "kJ4UEq1L3+ro1yArG7T2K9d0x8kBLxx0hFukYNAlHC3pv171WGxce7j+Db6pHS2/Pu1KwuFU+NKCyvgQ1SBM4azzmnFNWt0B2luc085kzecZ7Ytyx/rHmSiMGB1lKJ8b7rhhhxpkZvpsYGW8TOb5wIDAQAB"
+google-dancom._domainkey.kommaforslag.dk. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg6jNF10CZlbKirNHVRTcQEuxWOarRjlI2Ikd9mfwFFu8+qxouHygKh1aDuKVBX365cG7mcOEfCDUmmC3y9EO1oN+GbqdI7KwqwHWyTOogfvglQjkZHWojH7t4CLH1iV0GDmP0kkiu4xJ/pjifhfFWPf/1sgMZbsnDHzxi6vBoYKftjBkUwyEVtDXjdnqUTQfe" "kJ4UEq1L3+ro1yArG7T2K9d0x8kBLxx0hFukYNAlHC3pv171WGxce7j+Db6pHS2/Pu1KwuFU+NKCyvgQ1SBM4azzmnFNWt0B2luc085kzecZ7Ytyx/rHmSiMGB1lKJ8b7rhhhxpkZvpsYGW8TOb5wIDAQAB"

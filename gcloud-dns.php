@@ -43,22 +43,11 @@ function gcloud_dns($p, $domains) {
 		$zone = '';
 		foreach ($nz as $domain => $vs) {
 			foreach ($vs as $type => $values) {
-				foreach ($values as $k => $v) {
-					if ($type === 'TXT' && strlen($v) > 255) {
-						$values[$k] = str_split($v, 255);
-					}
-				}
 				foreach ($values as $v) {
-					if (is_array($v)) {
-						foreach ($v as $vv) {
-							if ($type === 'TXT') {
-								$vv = '"'.$vv.'"';
-							}
-							$zone .= "$domain 43200 IN $type $vv\n";
-						}
-						continue;
-					}
 					if ($type === 'TXT') {
+						if (strlen($v) > 255) {
+							$v = implode('" "', str_split($v, 255));
+						}
 						$v = '"'.$v.'"';
 					}
 					$zone .= "$domain 43200 IN $type $v\n";

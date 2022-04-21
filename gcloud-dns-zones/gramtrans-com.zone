@@ -16,6 +16,5 @@ mono.gramtrans.com. 43200 IN TXT "v=spf1 include:_spf.google.com a mx ptr ip4:13
 _dmarc.gramtrans.com. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@gramtrans.com"
 backends.gramtrans.com. 43200 IN A 176.9.7.122
 backends.gramtrans.com. 43200 IN AAAA 2a01:4f8:141:504b::2
-google._domainkey.gramtrans.com. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlLZqIspVscRXjhOaYonjkrEOJF/Icegyj0i9wQDgYxZ0LcQ9r1a5Psur8ik6CMsnV8/iRI8S1n7ssMHEtc1Z+hGmOa0nrWInPlS/G0sqMs9k7nJvvaFKbWZtHkgVja9JjYUMlMA1ipS3VEItGtsSLiVR7MWUaGUC5IODe8v6XLQzLVfQRLnD8pCI0qpkqFYY+"
-google._domainkey.gramtrans.com. 43200 IN TXT "Xx27z+D6Z7dLyAulHFBxcwmt8tE+TeUVNGgpnR0JFMW/kCvqJDwsE6ZMDqxgmCLVdyQqonJzZL2Ztro29n0CRBGIyB1rxKKtHCrMqhceOACA94ab6KmJ1SZl+Jyq3SqvpsM5p2rBRMO6HHpbv5TgwIDAQAB"
+google._domainkey.gramtrans.com. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlLZqIspVscRXjhOaYonjkrEOJF/Icegyj0i9wQDgYxZ0LcQ9r1a5Psur8ik6CMsnV8/iRI8S1n7ssMHEtc1Z+hGmOa0nrWInPlS/G0sqMs9k7nJvvaFKbWZtHkgVja9JjYUMlMA1ipS3VEItGtsSLiVR7MWUaGUC5IODe8v6XLQzLVfQRLnD8pCI0qpkqFYY+" "Xx27z+D6Z7dLyAulHFBxcwmt8tE+TeUVNGgpnR0JFMW/kCvqJDwsE6ZMDqxgmCLVdyQqonJzZL2Ztro29n0CRBGIyB1rxKKtHCrMqhceOACA94ab6KmJ1SZl+Jyq3SqvpsM5p2rBRMO6HHpbv5TgwIDAQAB"
 _github-challenge-grammarsoft.gramtrans.com. 43200 IN TXT "5e21ad7ad0"
