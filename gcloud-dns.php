@@ -364,12 +364,18 @@ $GLOBALS['-projects'] = [
 			],
 		'kukkuniiaat.gl' => [
 			'%template' => 'oqaa-base',
+			'%domain.' => [
+				'TXT' => ['google-site-verification=1-XgEuSVsrYnFxq9kWebGSk8XLtX9sv-GOFidTvacXo'],
+				],
 			],
 		'nutserut.gl' => [
 			'%template' => 'oqaa-base',
 			],
 		'oqaasileriffik.gl' => [
 			'%template' => 'oqaa-base',
+			'%domain.' => [
+				'TXT' => ['google-site-verification=qvmNd_Us1qVga-7YcrFBvWosB0icKMsQnYVEZt2RS4o'],
+				],
 			'_github-challenge-oqaasileriffik.%domain.' => [
 				'TXT' => ['51eaa8cda6'],
 				],

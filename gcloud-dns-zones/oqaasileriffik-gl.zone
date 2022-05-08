@@ -11,6 +11,7 @@ oqaasileriffik.gl. 43200 IN TXT "google-site-verification=AMeO6Haw0veXy8zJr7cCeU
 oqaasileriffik.gl. 43200 IN TXT "google-site-verification=oZCB-UFuH-R40PJ5xGq5u4fj139WHLMiBGSM7WSRXnQ"
 oqaasileriffik.gl. 43200 IN TXT "google-site-verification=U3Ao7JFK34W3ggTbWInlY89uQ7h6lFagG6NN-2xkOTs"
 oqaasileriffik.gl. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
+oqaasileriffik.gl. 43200 IN TXT "google-site-verification=qvmNd_Us1qVga-7YcrFBvWosB0icKMsQnYVEZt2RS4o"
 *.oqaasileriffik.gl. 43200 IN CNAME oqaasileriffik.gl.
 _dmarc.oqaasileriffik.gl. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:tino+dmarc@oqaasileriffik.gl"
 google-oqaa._domainkey.oqaasileriffik.gl. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhOxgoSikr7IAUNsNFQGL2mKdbHwt/dRBtRpFaFgAVLiilidvkB31gOe62cRicab0z7DJb9RZlCpq5Cczz71hmJqBul3XNe09ku6loT/gEfxPb37Z0iJR9rkkK7rz+c9ltYgMJ1pgTXOEfSwBGW0R5LI0yudhZKGOX7AnVAjAGn88LiREQvW/rINgWbZY9JUP9" "qeCoQ47g3eysdVA1ZjhAi7Dz/S1TMSrKnylMAO6q55Blad+sT1iaf+yJDymUn56Zx4hk2LdJ9XuHetMZrvcs1SyZYw746SEC58n24MyBNH8y26L5cgY6xB22lefv0HBYniOiRuGBFUQmWRNP/p0jQIDAQAB"

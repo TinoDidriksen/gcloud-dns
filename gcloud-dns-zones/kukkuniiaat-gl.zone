@@ -11,5 +11,6 @@ kukkuniiaat.gl. 43200 IN TXT "google-site-verification=AMeO6Haw0veXy8zJr7cCeUVDq
 kukkuniiaat.gl. 43200 IN TXT "google-site-verification=oZCB-UFuH-R40PJ5xGq5u4fj139WHLMiBGSM7WSRXnQ"
 kukkuniiaat.gl. 43200 IN TXT "google-site-verification=U3Ao7JFK34W3ggTbWInlY89uQ7h6lFagG6NN-2xkOTs"
 kukkuniiaat.gl. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
+kukkuniiaat.gl. 43200 IN TXT "google-site-verification=1-XgEuSVsrYnFxq9kWebGSk8XLtX9sv-GOFidTvacXo"
 *.kukkuniiaat.gl. 43200 IN CNAME kukkuniiaat.gl.
 _dmarc.kukkuniiaat.gl. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:tino+dmarc@oqaasileriffik.gl"
