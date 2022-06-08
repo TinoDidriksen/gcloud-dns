@@ -238,6 +238,9 @@ $GLOBALS['-projects'] = [
 			],
 		'visl.dk' => [
 			'%template' => 'mono-full',
+			'%domain.' => [
+				'TXT' => ['google-site-verification=lfTlhUPaCiRSQAWq1buyyZi-p7LJlwNqazLPTQr4_m8'],
+				],
 			],
 		'wikitrans.net' => [
 			'%template' => 'mono-full',
