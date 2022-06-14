@@ -386,6 +386,9 @@ $GLOBALS['-projects'] = [
 				'TXT' => ['v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhOxgoSikr7IAUNsNFQGL2mKdbHwt/dRBtRpFaFgAVLiilidvkB31gOe62cRicab0z7DJb9RZlCpq5Cczz71hmJqBul3XNe09ku6loT/gEfxPb37Z0iJR9rkkK7rz+c9ltYgMJ1pgTXOEfSwBGW0R5LI0yudhZKGOX7AnVAjAGn88LiREQvW/rINgWbZY9JUP9qeCoQ47g3eysdVA1ZjhAi7Dz/S1TMSrKnylMAO6q55Blad+sT1iaf+yJDymUn56Zx4hk2LdJ9XuHetMZrvcs1SyZYw746SEC58n24MyBNH8y26L5cgY6xB22lefv0HBYniOiRuGBFUQmWRNP/p0jQIDAQAB'],
 				],
 			],
+		'oqaatsit.gl' => [
+			'%template' => 'oqaa-base',
+			],
 		'ordbog.gl' => [
 			'%template' => 'oqaa-base',
 			],

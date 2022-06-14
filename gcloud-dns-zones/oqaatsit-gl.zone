@@ -1,0 +1,15 @@
+oqaatsit.gl. 43200 IN A 144.217.254.26
+oqaatsit.gl. 43200 IN AAAA 2607:5300:203:101a::
+oqaatsit.gl. 43200 IN MX 1 aspmx.l.google.com.
+oqaatsit.gl. 43200 IN MX 5 alt1.aspmx.l.google.com.
+oqaatsit.gl. 43200 IN MX 5 alt2.aspmx.l.google.com.
+oqaatsit.gl. 43200 IN MX 10 aspmx2.googlemail.com.
+oqaatsit.gl. 43200 IN MX 10 aspmx3.googlemail.com.
+oqaatsit.gl. 43200 IN TXT "google-site-verification=5FeNLM2s9b6Bph8DkE6r1mBea4tMYVLQlbqn2AHaNR8"
+oqaatsit.gl. 43200 IN TXT "google-site-verification=5FpaqZer98kijV9kVpE2xDQql-9I0kRk0g3uKC08U3c"
+oqaatsit.gl. 43200 IN TXT "google-site-verification=AMeO6Haw0veXy8zJr7cCeUVDq_68feKlDXtWkChNRMs"
+oqaatsit.gl. 43200 IN TXT "google-site-verification=oZCB-UFuH-R40PJ5xGq5u4fj139WHLMiBGSM7WSRXnQ"
+oqaatsit.gl. 43200 IN TXT "google-site-verification=U3Ao7JFK34W3ggTbWInlY89uQ7h6lFagG6NN-2xkOTs"
+oqaatsit.gl. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
+*.oqaatsit.gl. 43200 IN CNAME oqaatsit.gl.
+_dmarc.oqaatsit.gl. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:tino+dmarc@oqaasileriffik.gl"
