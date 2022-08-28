@@ -253,10 +253,10 @@ $GLOBALS['-projects'] = [
 
 	'tdconsult' => [
 		'athia.dk' => [
-			'%template' => 'wolf-full',
+			'%template' => 'wolf-mx',
 			],
 		'athia.eu' => [
-			'%template' => 'wolf-full',
+			'%template' => 'wolf-mx',
 			],
 		'danish.guru' => [
 			'%template' => 'mono-full', // NB: mono
