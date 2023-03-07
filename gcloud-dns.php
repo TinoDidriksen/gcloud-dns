@@ -403,6 +403,9 @@ $GLOBALS['-projects'] = [
 		'taaguutit.gl' => [
 			'%template' => 'oqaa-base',
 			],
+		'nunataqqi.gl' => [
+			'%template' => 'oqaa-base',
+			],
 		],
 	];
 
