@@ -279,6 +279,9 @@ $GLOBALS['-projects'] = [
 			],
 		'pjj.cc' => [
 			'%template' => 'wolf-mx',
+			'gitlab.%domain.' => [
+				'CNAME' => ['oqaa.projectjj.com.'],
+				],
 			],
 		'projectjj.com' => [
 			'%template' => 'wolf-base',
