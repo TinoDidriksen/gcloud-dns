@@ -242,8 +242,8 @@ $GLOBALS['-projects'] = [
 				'TXT' => ['google-site-verification=lfTlhUPaCiRSQAWq1buyyZi-p7LJlwNqazLPTQr4_m8'],
 				],
 			'corp.%domain.' => [
-				'A' => ['88.99.217.156'],
-				'AAAA' => ['2a01:4f8:10a:42a3::2'],
+				'A' => ['176.9.7.122'],
+				'AAAA' => ['2a01:4f8:141:504b::2'],
 				],
 			'corp2.%domain.' => [
 				'A' => ['88.99.217.156'],

@@ -12,8 +12,8 @@ visl.dk. 43200 IN TXT "google-site-verification=TzH_D5fsoAUlxhsweuA0tWhykdWWGnaP
 visl.dk. 43200 IN TXT "google-site-verification=UYVtyRkskD3vMCAhLHOfWMh5gBRudFfVa2YfVgnsK2g"
 visl.dk. 43200 IN TXT "google-site-verification=lfTlhUPaCiRSQAWq1buyyZi-p7LJlwNqazLPTQr4_m8"
 *.visl.dk. 43200 IN CNAME visl.dk.
-corp.visl.dk. 43200 IN A 88.99.217.156
-corp.visl.dk. 43200 IN AAAA 2a01:4f8:10a:42a3::2
+corp.visl.dk. 43200 IN A 176.9.7.122
+corp.visl.dk. 43200 IN AAAA 2a01:4f8:141:504b::2
 corp2.visl.dk. 43200 IN A 88.99.217.156
 corp2.visl.dk. 43200 IN AAAA 2a01:4f8:10a:42a3::2
 _dmarc.visl.dk. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@gramtrans.com"
