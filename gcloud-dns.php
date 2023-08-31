@@ -249,11 +249,18 @@ $GLOBALS['-projects'] = [
 				'A' => ['88.99.217.156'],
 				'AAAA' => ['2a01:4f8:10a:42a3::2'],
 				],
+			'edu.%domain.' => [
+				'A' => ['176.9.7.122'],
+				'AAAA' => ['2a01:4f8:141:504b::2'],
+				],
 			'*.corp.%domain.' => [
 				'CNAME' => ['corp.%domain.'],
 				],
 			'*.corp2.%domain.' => [
 				'CNAME' => ['corp2.%domain.'],
+				],
+			'*.edu.%domain.' => [
+				'CNAME' => ['edu.%domain.'],
 				],
 			],
 		'wikitrans.net' => [
