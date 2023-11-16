@@ -181,8 +181,8 @@ $GLOBALS['-projects'] = [
 				'MX' => ['10 mono.gramtrans.com.'],
 				],
 			'backends.%domain.' => [
-				'A' => ['176.9.7.122'],
-				'AAAA' => ['2a01:4f8:141:504b::2'],
+				'A' => ['213.133.109.218'],
+				'AAAA' => ['2a01:4f8:222:1750::2'],
 				],
 			'_github-challenge-grammarsoft.%domain.' => [
 				'TXT' => ['5e21ad7ad0'],
@@ -242,16 +242,16 @@ $GLOBALS['-projects'] = [
 				'TXT' => ['google-site-verification=lfTlhUPaCiRSQAWq1buyyZi-p7LJlwNqazLPTQr4_m8'],
 				],
 			'corp.%domain.' => [
-				'A' => ['176.9.7.122'],
-				'AAAA' => ['2a01:4f8:141:504b::2'],
+				'A' => ['213.133.109.218'],
+				'AAAA' => ['2a01:4f8:222:1750::2'],
 				],
 			'corp2.%domain.' => [
 				'A' => ['88.99.217.156'],
 				'AAAA' => ['2a01:4f8:10a:42a3::2'],
 				],
 			'edu.%domain.' => [
-				'A' => ['176.9.7.122'],
-				'AAAA' => ['2a01:4f8:141:504b::2'],
+				'A' => ['213.133.109.218'],
+				'AAAA' => ['2a01:4f8:222:1750::2'],
 				],
 			'*.corp.%domain.' => [
 				'CNAME' => ['corp.%domain.'],
