@@ -68,10 +68,10 @@ function gcloud_dns($p, $domains) {
 $GLOBALS['-templates'] = [
 	'mono-base' => [
 		'%domain.' => [
-			'A' => ['138.201.253.104'],
-			'AAAA' => ['2a01:4f8:173:2467::2'],
+			'A' => ['178.63.51.177'],
+			'AAAA' => ['2a01:4f8:120:7357::2'],
 			'MX' => ['1 aspmx.l.google.com.', '5 alt1.aspmx.l.google.com.', '5 alt2.aspmx.l.google.com.', '10 aspmx2.googlemail.com.', '10 aspmx3.googlemail.com.'],
-			'TXT' => ['v=spf1 include:_spf.google.com a mx ptr ip4:138.201.253.104 ip6:2a01:4f8:173:2467::2 ~all'],
+			'TXT' => ['v=spf1 include:_spf.google.com a mx ptr ip4:178.63.51.177 ip6:2a01:4f8:120:7357::2 ~all'],
 			],
 		'*.%domain.' => [
 			'CNAME' => ['%domain.'],
@@ -172,10 +172,10 @@ $GLOBALS['-projects'] = [
 				'TXT' => ['google-site-verification=cSnqXZpIDHC_saJZ3k4f_Y8I66mQa7z2Sq7SPhN8qLY'],
 				],
 			'mono.%domain.' => [
-				'A' => ['138.201.253.104'],
-				'AAAA' => ['2a01:4f8:173:2467::2'],
+				'A' => ['178.63.51.177'],
+				'AAAA' => ['2a01:4f8:120:7357::2'],
 				'MX' => ['10 mono.gramtrans.com.'],
-				'TXT' => ['v=spf1 include:_spf.google.com a mx ptr ip4:138.201.253.104 ip6:2a01:4f8:173:2467::2 ~all'],
+				'TXT' => ['v=spf1 include:_spf.google.com a mx ptr ip4:178.63.51.177 ip6:2a01:4f8:120:7357::2 ~all'],
 				],
 			'trx.%domain.' => [
 				'MX' => ['10 mono.gramtrans.com.'],
