@@ -395,6 +395,9 @@ $GLOBALS['-projects'] = [
 				'TXT' => ['google-site-verification=1-XgEuSVsrYnFxq9kWebGSk8XLtX9sv-GOFidTvacXo'],
 				],
 			],
+		'language.gl' => [
+			'%template' => 'oqaa-base',
+			],
 		'nutserut.gl' => [
 			'%template' => 'oqaa-base',
 			],
