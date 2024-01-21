@@ -420,6 +420,9 @@ $GLOBALS['-projects'] = [
 		'ordbog.gl' => [
 			'%template' => 'oqaa-base',
 			],
+		'sprog.gl' => [
+			'%template' => 'oqaa-base',
+			],
 		'taaguutit.gl' => [
 			'%template' => 'oqaa-base',
 			],
