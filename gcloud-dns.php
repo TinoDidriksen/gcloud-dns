@@ -406,6 +406,7 @@ $GLOBALS['-projects'] = [
 			'%domain.' => [
 				'TXT' => ['google-site-verification=qvmNd_Us1qVga-7YcrFBvWosB0icKMsQnYVEZt2RS4o'],
 				'TXT' => ['MS=ms21016172'],
+				'TXT' => ['MS=ms70731289'],
 				],
 			'_github-challenge-oqaasileriffik.%domain.' => [
 				'TXT' => ['51eaa8cda6'],
