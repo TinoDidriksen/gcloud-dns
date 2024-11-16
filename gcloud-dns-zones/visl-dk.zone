@@ -11,6 +11,7 @@ visl.dk. 43200 IN TXT "google-site-verification=MCifYavgq4UWewO0u_Te5x48vcWBqlgN
 visl.dk. 43200 IN TXT "google-site-verification=TzH_D5fsoAUlxhsweuA0tWhykdWWGnaPO_-hK-78fCM"
 visl.dk. 43200 IN TXT "google-site-verification=UYVtyRkskD3vMCAhLHOfWMh5gBRudFfVa2YfVgnsK2g"
 visl.dk. 43200 IN TXT "google-site-verification=lfTlhUPaCiRSQAWq1buyyZi-p7LJlwNqazLPTQr4_m8"
+visl.dk. 43200 IN TXT "google-site-verification=B7coJAoJS8-u2KyUvdnHwSLyw3H4u0GwPrQf3FP7pwE"
 *.visl.dk. 43200 IN CNAME visl.dk.
 edu.visl.dk. 43200 IN A 213.133.109.218
 edu.visl.dk. 43200 IN AAAA 2a01:4f8:222:1750::2

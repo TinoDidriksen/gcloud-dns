@@ -13,4 +13,5 @@ tinodidriksen.com. 43200 IN TXT "google-site-verification=UqSbzNpdCniZ6wieb68hmv
 tinodidriksen.com. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
 *.tinodidriksen.com. 43200 IN CNAME tinodidriksen.com.
 _dmarc.tinodidriksen.com. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"
+_atproto.tinodidriksen.com. 43200 IN TXT "did=did:plc:nn7o7oqzue5von7yhiqpfogk"
 google-tdcom._domainkey.tinodidriksen.com. 43200 IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlz5AVOuAJZ5+/xIyw/Tyxj56/GQ/gNuLSipQ74QhgGgzVZ9xSA601TAev18+9YDU0/ivq9TzIs0Soh89w92C/GhAozkDL7H+hzWqElHUQIRKvL+bGGjZ5gucs4I9LNrOv7RBblQ+dzbPSQg13qr38DQfaYnV4fjO3kE9jhHrk6j9H9JdP5F0714sWeTTDZBlV" "D6dJK8iFnk4WpOH0WrwjmxdL0McpiWJSvc6A2LoltQhHFGZuguQSErI5KH8a0rFXsdT5rNQ660ygWfI4W4zBVep+bZFuMHtyr87ZkWgCBYFtWqgaMVDnBMSZbg3LIY7jgX+rV5KzVz70/RYz8sw8QIDAQAB"

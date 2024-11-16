@@ -239,7 +239,7 @@ $GLOBALS['-projects'] = [
 		'visl.dk' => [
 			'%template' => 'mono-full',
 			'%domain.' => [
-				'TXT' => ['google-site-verification=lfTlhUPaCiRSQAWq1buyyZi-p7LJlwNqazLPTQr4_m8'],
+				'TXT' => ['google-site-verification=lfTlhUPaCiRSQAWq1buyyZi-p7LJlwNqazLPTQr4_m8', 'google-site-verification=B7coJAoJS8-u2KyUvdnHwSLyw3H4u0GwPrQf3FP7pwE'],
 				],
 			'corp.%domain.' => [
 				'A' => ['213.133.109.218'],
@@ -349,6 +349,9 @@ $GLOBALS['-projects'] = [
 			'google-tdcom._domainkey.%domain.' => [
 				'TXT' => ['v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlz5AVOuAJZ5+/xIyw/Tyxj56/GQ/gNuLSipQ74QhgGgzVZ9xSA601TAev18+9YDU0/ivq9TzIs0Soh89w92C/GhAozkDL7H+hzWqElHUQIRKvL+bGGjZ5gucs4I9LNrOv7RBblQ+dzbPSQg13qr38DQfaYnV4fjO3kE9jhHrk6j9H9JdP5F0714sWeTTDZBlVD6dJK8iFnk4WpOH0WrwjmxdL0McpiWJSvc6A2LoltQhHFGZuguQSErI5KH8a0rFXsdT5rNQ660ygWfI4W4zBVep+bZFuMHtyr87ZkWgCBYFtWqgaMVDnBMSZbg3LIY7jgX+rV5KzVz70/RYz8sw8QIDAQAB'],
 				],
+			'_atproto.%domain.' => [
+				'TXT' => ['did=did:plc:nn7o7oqzue5von7yhiqpfogk'],
+				],
 			],
 		'tinodidriksen.eu' => [
 			'%template' => 'wolf-full',
@@ -404,9 +407,7 @@ $GLOBALS['-projects'] = [
 		'oqaasileriffik.gl' => [
 			'%template' => 'oqaa-base',
 			'%domain.' => [
-				'TXT' => ['google-site-verification=qvmNd_Us1qVga-7YcrFBvWosB0icKMsQnYVEZt2RS4o'],
-				'TXT' => ['MS=ms21016172'],
-				'TXT' => ['MS=ms70731289'],
+				'TXT' => ['google-site-verification=qvmNd_Us1qVga-7YcrFBvWosB0icKMsQnYVEZt2RS4o', 'MS=ms21016172', 'MS=ms70731289'],
 				],
 			'_github-challenge-oqaasileriffik.%domain.' => [
 				'TXT' => ['51eaa8cda6'],
