@@ -1,10 +1,6 @@
 gramtrans.com. 43200 IN A 178.63.51.177
 gramtrans.com. 43200 IN AAAA 2a01:4f8:120:7357::2
-gramtrans.com. 43200 IN MX 1 aspmx.l.google.com.
-gramtrans.com. 43200 IN MX 5 alt1.aspmx.l.google.com.
-gramtrans.com. 43200 IN MX 5 alt2.aspmx.l.google.com.
-gramtrans.com. 43200 IN MX 10 aspmx2.googlemail.com.
-gramtrans.com. 43200 IN MX 10 aspmx3.googlemail.com.
+gramtrans.com. 43200 IN MX 1 smtp.google.com.
 gramtrans.com. 43200 IN TXT "v=spf1 include:_spf.google.com a mx ptr ip4:178.63.51.177 ip6:2a01:4f8:120:7357::2 ~all"
 gramtrans.com. 43200 IN TXT "google-site-verification=cSnqXZpIDHC_saJZ3k4f_Y8I66mQa7z2Sq7SPhN8qLY"
 *.gramtrans.com. 43200 IN CNAME gramtrans.com.

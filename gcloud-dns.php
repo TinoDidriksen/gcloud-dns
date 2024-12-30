@@ -70,7 +70,7 @@ $GLOBALS['-templates'] = [
 		'%domain.' => [
 			'A' => ['178.63.51.177'],
 			'AAAA' => ['2a01:4f8:120:7357::2'],
-			'MX' => ['1 aspmx.l.google.com.', '5 alt1.aspmx.l.google.com.', '5 alt2.aspmx.l.google.com.', '10 aspmx2.googlemail.com.', '10 aspmx3.googlemail.com.'],
+			'MX' => ['1 smtp.google.com.'],
 			'TXT' => ['v=spf1 include:_spf.google.com a mx ptr ip4:178.63.51.177 ip6:2a01:4f8:120:7357::2 ~all'],
 			],
 		'*.%domain.' => [
@@ -109,7 +109,7 @@ $GLOBALS['-templates'] = [
 	'wolf-full' => [
 		'%template' => 'wolf-base',
 		'%domain.' => [
-			'MX' => ['1 aspmx.l.google.com.', '5 alt1.aspmx.l.google.com.', '5 alt2.aspmx.l.google.com.', '10 aspmx2.googlemail.com.', '10 aspmx3.googlemail.com.'],
+			'MX' => ['1 smtp.google.com.'],
 			'TXT' => ['google-site-verification=1ahGxvUnxo4W5CyHd8vMjAELNBE9QF79xfxVwV6O3gA', 'google-site-verification=2oXN9GpfpTIZYK0AQDcfwFtTE54mp03JBNlFuvgG5CI', 'google-site-verification=B7Q6_nLnWkxNP4-1GXWJttnEi-gUMgB6d4VupkMzNfk', 'google-site-verification=ecAjFb7DKAdEhCwG0AycYyDYAUB8beDVhgtG1ZP6-Xk', 'google-site-verification=UqSbzNpdCniZ6wieb68hmvC22RPgnjRjuLLZSnoKYrM', 'v=spf1 include:_spf.google.com include:projectjj.com ~all'],
 			],
 		],
@@ -137,7 +137,7 @@ $GLOBALS['-templates'] = [
 		'%domain.' => [
 			'A' => ['144.217.254.26'],
 			'AAAA' => ['2607:5300:203:101a::'],
-			'MX' => ['1 aspmx.l.google.com.', '5 alt1.aspmx.l.google.com.', '5 alt2.aspmx.l.google.com.', '10 aspmx2.googlemail.com.', '10 aspmx3.googlemail.com.'],
+			'MX' => ['1 smtp.google.com.'],
 			'TXT' => ['google-site-verification=5FeNLM2s9b6Bph8DkE6r1mBea4tMYVLQlbqn2AHaNR8', 'google-site-verification=5FpaqZer98kijV9kVpE2xDQql-9I0kRk0g3uKC08U3c', 'google-site-verification=AMeO6Haw0veXy8zJr7cCeUVDq_68feKlDXtWkChNRMs', 'google-site-verification=oZCB-UFuH-R40PJ5xGq5u4fj139WHLMiBGSM7WSRXnQ', 'google-site-verification=U3Ao7JFK34W3ggTbWInlY89uQ7h6lFagG6NN-2xkOTs', 'v=spf1 include:_spf.google.com include:projectjj.com ~all'],
 			],
 		'*.%domain.' => [
@@ -299,7 +299,7 @@ $GLOBALS['-projects'] = [
 		'projectjj.com' => [
 			'%template' => 'wolf-base',
 			'%domain.' => [
-				'MX' => ['1 aspmx.l.google.com.', '5 alt1.aspmx.l.google.com.', '5 alt2.aspmx.l.google.com.', '10 aspmx2.googlemail.com.', '10 aspmx3.googlemail.com.'],
+				'MX' => ['1 smtp.google.com.'],
 				'TXT' => ['v=spf1 include:_spf.google.com a mx ptr a:oqaa.projectjj.com a:timber.projectjj.com a:wolf.projectjj.com a:oqaa.projectjj.com ip4:37.187.75.182 ip4:192.99.34.59 ip6:2001:41d0:a:2bb6::/64 ip6:2607:5300:60:493b::1/64 ~all'],
 				],
 			'mail.%domain.' => [
@@ -324,6 +324,12 @@ $GLOBALS['-projects'] = [
 				],
 			'apertium.%domain.' => [
 				'CNAME' => ['oqaa.%domain.'],
+				],
+			],
+		'projectjj.dk' => [
+			'%template' => 'wolf-full',
+			'%domain.' => [
+				'TXT' => ['google-site-verification=mBS9IJkpuLrKJQ8vce1w36drH0mrzRobeZ731O7iTLA'],
 				],
 			],
 		'real-vampires.com' => [

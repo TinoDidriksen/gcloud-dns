@@ -1,10 +1,6 @@
 jervelundhaven.dk. 43200 IN A 5.9.18.201
 jervelundhaven.dk. 43200 IN AAAA 2a01:4f8:160:92cf::2
-jervelundhaven.dk. 43200 IN MX 1 aspmx.l.google.com.
-jervelundhaven.dk. 43200 IN MX 5 alt1.aspmx.l.google.com.
-jervelundhaven.dk. 43200 IN MX 5 alt2.aspmx.l.google.com.
-jervelundhaven.dk. 43200 IN MX 10 aspmx2.googlemail.com.
-jervelundhaven.dk. 43200 IN MX 10 aspmx3.googlemail.com.
+jervelundhaven.dk. 43200 IN MX 1 smtp.google.com.
 jervelundhaven.dk. 43200 IN TXT "google-site-verification=1ahGxvUnxo4W5CyHd8vMjAELNBE9QF79xfxVwV6O3gA"
 jervelundhaven.dk. 43200 IN TXT "google-site-verification=2oXN9GpfpTIZYK0AQDcfwFtTE54mp03JBNlFuvgG5CI"
 jervelundhaven.dk. 43200 IN TXT "google-site-verification=B7Q6_nLnWkxNP4-1GXWJttnEi-gUMgB6d4VupkMzNfk"

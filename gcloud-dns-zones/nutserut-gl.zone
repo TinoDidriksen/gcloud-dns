@@ -1,10 +1,6 @@
 nutserut.gl. 43200 IN A 144.217.254.26
 nutserut.gl. 43200 IN AAAA 2607:5300:203:101a::
-nutserut.gl. 43200 IN MX 1 aspmx.l.google.com.
-nutserut.gl. 43200 IN MX 5 alt1.aspmx.l.google.com.
-nutserut.gl. 43200 IN MX 5 alt2.aspmx.l.google.com.
-nutserut.gl. 43200 IN MX 10 aspmx2.googlemail.com.
-nutserut.gl. 43200 IN MX 10 aspmx3.googlemail.com.
+nutserut.gl. 43200 IN MX 1 smtp.google.com.
 nutserut.gl. 43200 IN TXT "google-site-verification=5FeNLM2s9b6Bph8DkE6r1mBea4tMYVLQlbqn2AHaNR8"
 nutserut.gl. 43200 IN TXT "google-site-verification=5FpaqZer98kijV9kVpE2xDQql-9I0kRk0g3uKC08U3c"
 nutserut.gl. 43200 IN TXT "google-site-verification=AMeO6Haw0veXy8zJr7cCeUVDq_68feKlDXtWkChNRMs"

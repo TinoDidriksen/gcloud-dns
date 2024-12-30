@@ -1,10 +1,6 @@
 deepdict.com. 43200 IN A 178.63.51.177
 deepdict.com. 43200 IN AAAA 2a01:4f8:120:7357::2
-deepdict.com. 43200 IN MX 1 aspmx.l.google.com.
-deepdict.com. 43200 IN MX 5 alt1.aspmx.l.google.com.
-deepdict.com. 43200 IN MX 5 alt2.aspmx.l.google.com.
-deepdict.com. 43200 IN MX 10 aspmx2.googlemail.com.
-deepdict.com. 43200 IN MX 10 aspmx3.googlemail.com.
+deepdict.com. 43200 IN MX 1 smtp.google.com.
 deepdict.com. 43200 IN TXT "v=spf1 include:_spf.google.com a mx ptr ip4:178.63.51.177 ip6:2a01:4f8:120:7357::2 ~all"
 deepdict.com. 43200 IN TXT "google-site-verification=CrAP2tqLhqfY6-_WefRsGo2EvDMzDHjD9kXOIp8XsIE"
 deepdict.com. 43200 IN TXT "google-site-verification=MCifYavgq4UWewO0u_Te5x48vcWBqlgNpO9vQQsq9OE"
