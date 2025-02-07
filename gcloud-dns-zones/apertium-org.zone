@@ -1,8 +1,10 @@
 apertium.org. 43200 IN A 144.76.217.21
 apertium.org. 43200 IN AAAA 2a01:4f8:200:900d::2
-apertium.org. 43200 IN MX 10 apertium.org.
+apertium.org. 43200 IN MX 10 mail.apertium.org.
 apertium.org. 43200 IN TXT "v=spf1 include:_spf.google.com a mx ptr a:apertium.org a:apertium.com ip4:144.76.217.21 ip6:2a01:4f8:200:900d::2/64 ~all"
 *.apertium.org. 43200 IN CNAME apertium.org.
 dev.apertium.org. 43200 IN A 78.46.22.15
 dev.apertium.org. 43200 IN AAAA 2a01:4f8:201:2318::2
+mail.apertium.org. 43200 IN A 144.76.217.21
+mail.apertium.org. 43200 IN AAAA 2a01:4f8:200:900d::2
 _dmarc.apertium.org. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"

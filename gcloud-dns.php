@@ -118,12 +118,16 @@ $GLOBALS['-templates'] = [
 		'%domain.' => [
 			'A' => ['144.76.217.21'],
 			'AAAA' => ['2a01:4f8:200:900d::2'],
-			'MX' => ['10 apertium.org.'],
+			'MX' => ['10 mail.apertium.org.'],
 			'TXT' => ['v=spf1 include:_spf.google.com a mx ptr a:apertium.org a:apertium.com ip4:144.76.217.21 ip6:2a01:4f8:200:900d::2/64 ~all'],
 			],
 		'dev.%domain.' => [
 			'A' => ['78.46.22.15'],
 			'AAAA' => ['2a01:4f8:201:2318::2'],
+			],
+		'mail.%domain.' => [
+			'A' => ['144.76.217.21'],
+			'AAAA' => ['2a01:4f8:200:900d::2'],
 			],
 		'*.%domain.' => [
 			'CNAME' => ['%domain.'],
@@ -164,6 +168,9 @@ $GLOBALS['-projects'] = [
 			'%template' => 'mono-full',
 			'google-gsoft._domainkey.%domain.' => [
 				'TXT' => ['v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArxE2jDUIItqyxl1s5Vo5y9El/x7uO84C1KTfjzBWhj716Lkx5TegBrXTG1ls4F1zAPPCQwDEswg4U+uS4OmypmbCEeBGvPHIfZtauRI2twNweN5fDAR6+5Biuyhs+SSrsIEUkympheQHe6iHpA8cgGXPmDmI5uFXWWB6CS+lO7d16okMyDZi5qqvP8o0bEnicPhcTq17BLbvz5Fl0FND/6auOlUMLY0zJQGb0UGoa3A6zga9ZBin0WEwIZhm3QZhMi9aQTfLovszrwCCf8xLtS1XJhCcexrwSZ3TV07WT8fIZ6z+8cjgQRxDyoy/U763ramUlmF2JfEDd2RU9aWfAQIDAQAB'],
+				],
+			'_atproto.%domain.' => [
+				'TXT' => ['did=did:plc:rikr7xatuj7tsdl5trvxtdt7'],
 				],
 			],
 		'gramtrans.com' => [
