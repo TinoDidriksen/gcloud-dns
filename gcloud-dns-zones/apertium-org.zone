@@ -8,3 +8,4 @@ dev.apertium.org. 43200 IN AAAA 2a01:4f8:201:2318::2
 mail.apertium.org. 43200 IN A 144.76.217.21
 mail.apertium.org. 43200 IN AAAA 2a01:4f8:200:900d::2
 _dmarc.apertium.org. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"
+mail._domainkey.apertium.org. 43200 IN TXT "v=DKIM1; h=sha256; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA96etTVPrIcpSY1wK3JZUurz8aLYc02ydDyoBy8lSqez7z3AOl6rCFX2UqLd8TH+WQAgWFBY7i+M3TIzGxgtpZJxe1Yw8CodF6Ao98m+H+Kdsq188AlJ+uo98a4mROkDQ3GW35/STrNKCxwmTM+w/mcKlVj7wfrJq0V4/jwL+HL/GElyG4pnbCxk" "uTD5cxpQG0IQ81l5nz5ufwlKwGg+Dh9F4XcqMYgoe/+RyTnTYgFzdJcNND5TAd/xPpEFUW8praMoqiCLhf/rFIX52wHHUB7srA6GFUmH/98XnogAbhiBqCcMBPfRDsCXzcYjzgusFkOO9lyaP6Q/yu5qfkvtikQIDAQAB"

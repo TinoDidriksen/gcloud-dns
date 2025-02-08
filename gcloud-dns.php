@@ -135,6 +135,9 @@ $GLOBALS['-templates'] = [
 		'_dmarc.%domain.' => [
 			'TXT' => ['v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com'],
 			],
+		'mail._domainkey.%domain.' => [
+			'TXT' => ['v=DKIM1; h=sha256; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA96etTVPrIcpSY1wK3JZUurz8aLYc02ydDyoBy8lSqez7z3AOl6rCFX2UqLd8TH+WQAgWFBY7i+M3TIzGxgtpZJxe1Yw8CodF6Ao98m+H+Kdsq188AlJ+uo98a4mROkDQ3GW35/STrNKCxwmTM+w/mcKlVj7wfrJq0V4/jwL+HL/GElyG4pnbCxkuTD5cxpQG0IQ81l5nz5ufwlKwGg+Dh9F4XcqMYgoe/+RyTnTYgFzdJcNND5TAd/xPpEFUW8praMoqiCLhf/rFIX52wHHUB7srA6GFUmH/98XnogAbhiBqCcMBPfRDsCXzcYjzgusFkOO9lyaP6Q/yu5qfkvtikQIDAQAB'],
+			],
 		],
 
 	'oqaa-base' => [
@@ -364,6 +367,9 @@ $GLOBALS['-projects'] = [
 				],
 			'_atproto.%domain.' => [
 				'TXT' => ['did=did:plc:nn7o7oqzue5von7yhiqpfogk'],
+				],
+			'_discord.%domain.' => [
+				'TXT' => ['dh=5285130d5d5b10b2ae5f6021f263d6e7a75653f8'],
 				],
 			],
 		'tinodidriksen.eu' => [
