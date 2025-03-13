@@ -122,8 +122,8 @@ $GLOBALS['-templates'] = [
 			'TXT' => ['v=spf1 include:_spf.google.com a mx ptr a:apertium.org a:apertium.com ip4:144.76.217.21 ip6:2a01:4f8:200:900d::2/64 ~all'],
 			],
 		'dev.%domain.' => [
-			'A' => ['78.46.22.15'],
-			'AAAA' => ['2a01:4f8:201:2318::2'],
+			'A' => ['65.108.233.184'],
+			'AAAA' => ['2a01:4f9:1a:ad8f::2'],
 			],
 		'mail.%domain.' => [
 			'A' => ['144.76.217.21'],
