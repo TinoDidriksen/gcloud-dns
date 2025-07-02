@@ -357,6 +357,12 @@ $GLOBALS['-projects'] = [
 				'TXT' => ['v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArIOx/x8xnE6RyZK5pXsy4orl34AmIujET8aGJaFgd1kDG93XQdRA5OmdIHhSz4esZ5yCmXIQMdPhxmPdUH68Ebxk2H6allPU66sNBANY2BMznrZEr6V2o1vzO8dGDYzanBlqDtQCI3HDwL+gFsg44hJfheAWH79Qe4tCDClzS5qVHgwsqt6oTPfmY1GhusSgsQYN2UbV06WNp/KMn2jMQwljdzeWwZXwAEH+AoHwN7r6wnRjoDMdFRPBR+woXWxuZnHSEEmNFjL+aZYw/2ItzwAf22fuy6RUmhyY7B4uya8sGpls+SztC08gBAlCXxMatjvwqum3Rw+owSzeKhijFQIDAQAB'],
 				],
 			],
+		'kalaallisut.dk' => [
+			'%template' => 'wolf-full',
+			],
+		'kalaallisut.gl' => [
+			'%template' => 'wolf-full',
+			],
 		'spoons.cc' => [
 			'%template' => 'wolf-full',
 			],

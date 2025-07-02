@@ -1,0 +1,11 @@
+kalaallisut.dk. 43200 IN A 5.9.18.201
+kalaallisut.dk. 43200 IN AAAA 2a01:4f8:160:92cf::2
+kalaallisut.dk. 43200 IN MX 1 smtp.google.com.
+kalaallisut.dk. 43200 IN TXT "google-site-verification=1ahGxvUnxo4W5CyHd8vMjAELNBE9QF79xfxVwV6O3gA"
+kalaallisut.dk. 43200 IN TXT "google-site-verification=2oXN9GpfpTIZYK0AQDcfwFtTE54mp03JBNlFuvgG5CI"
+kalaallisut.dk. 43200 IN TXT "google-site-verification=B7Q6_nLnWkxNP4-1GXWJttnEi-gUMgB6d4VupkMzNfk"
+kalaallisut.dk. 43200 IN TXT "google-site-verification=ecAjFb7DKAdEhCwG0AycYyDYAUB8beDVhgtG1ZP6-Xk"
+kalaallisut.dk. 43200 IN TXT "google-site-verification=UqSbzNpdCniZ6wieb68hmvC22RPgnjRjuLLZSnoKYrM"
+kalaallisut.dk. 43200 IN TXT "v=spf1 include:_spf.google.com include:projectjj.com ~all"
+*.kalaallisut.dk. 43200 IN CNAME kalaallisut.dk.
+_dmarc.kalaallisut.dk. 43200 IN TXT "v=DMARC1; p=none; rua=mailto:dmarc-reports@tinodidriksen.com"
